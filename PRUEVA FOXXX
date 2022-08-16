@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 ,FOXX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=1GGmUI_HcbQfH7iDM4wYZA&expires=1660679407&ip=190.183.30.82
+#EXTINF:-1 ,TNT SERIES TV PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=CcPK5i7F7UHkDbUKM9vF1A&expires=1660681646&ip=190.183.30.82
+
+#EXTINF:-1 ,TNT TV PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=-ZyASh1QfQOxe8muT0V1IQ&expires=1660681879&ip=190.183.30.82
+
+#EXTINF:-1 ,FOX TV PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=OtmajPk2tosAjYfl520Aqg&expires=1660681974&ip=190.183.30.82
