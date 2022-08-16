@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 ,CRONI
-https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+#EXTINF:-1 ,prueva 1
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 ,prueva 2
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_499712=24.m3u8
+
+#EXTINF:-1 ,prueva 3
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-mp4a_59000_spa=25.m3u8
