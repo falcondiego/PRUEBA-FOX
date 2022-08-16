@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 ,FOX1
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_1499136=6.m3u8
+#EXTINF:-1 ,FOX TV PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=pQGofViDOF783BjqxwW56g&expires=1660680179&ip=190.183.30.82
 
-#EXTINF:-1 ,FOX2
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-mp4a_64000_spa=27.m3u8
-
-#EXTINF:-1 ,FOX3
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_2499584=8.m3u8
-
-#EXTINF:-1 ,CINE AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 ,13 MAX
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?WebM3UCL
+#EXTINF:-1 ,TNT TV PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=s2Ba59JopOHu2f448RexAA&expires=1660680046&ip=190.183.30.82
