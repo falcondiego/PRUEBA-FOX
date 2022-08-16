@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 ,CANAL XFN
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 ,CROSSING TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?WebM3UCL
+
+#EXTINF:-1 ,MILENNIO TV
+https://streamconex.com:1936/milenniotv/milenniotv/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 ,HBO EXTREME
+http://23.148.145.49:9001/televall2022/449_.m3u8?token=jTGAIY27CrOxZyJnpMQ2mA&expires=1660664893
+
+#EXTINF:-1 ,HBO PLUS
+http://23.148.145.49:9001/televall2022/560_.m3u8?token=ofbsJz0iPLFiKlcYIFe4EQ&expires=1660665374
+
+#EXTINF:-1 ,HBO SIGNATURE
+http://23.148.145.49:9001/televall2022/718_.m3u8?token=88woDYN91tHUPYtcUqrdLg&expires=1660665077
+
+#EXTINF:-1 ,7 AZTECA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=zLM0Fhjqs_u58sCPILtysg&expires=1660661283&ip=190.183.30.82
+
+#EXTINF:-1 ,A&E
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=k3wTF1fW23HOP1amR_-Uxg&expires=1660665778&ip=190.183.30.82
+
+#EXTINF:-1 ,AZTECA 13
+https://usher.ttvnw.net/api/channel/hls/azt_119vx.m3u8?allow_source=true&fast_bread=true&p=3452864&play_session_id=1fbaa3ce6db71540487b2bba123c3a9a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=2f25024b04befda8a96afe98f18558a2fa270aaf&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22azt_119vx%22%2C%22channel_id%22%3A810940091%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2282f24f681d2a5fb0%22%2C%22expires%22%3A1660651898%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.183.30.82%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
+
+#EXTINF:-1 ,CANAL 4 SAN LUIS
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 ,WIN SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=LExV199Jka1VHAQ048m5Uw&expires=1660661959&ip=190.183.30.82
+
+#EXTINF:-1 ,UNIVISION
+https://usher.ttvnw.net/api/channel/hls/unv_029xl.m3u8?allow_source=true&fast_bread=true&p=4106448&play_session_id=ae9ffde6e2d41129de29ca34b85ce52a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=fa49135ba4af928caac25c3cb976e8cd3ee87918&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22unv_029xl%22%2C%22channel_id%22%3A817927326%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2282f24f681d2a5fb0%22%2C%22expires%22%3A1660650489%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.183.30.82%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
+
+#EXTINF:-1 ,STAR ACCION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/138_.m3u8?token=V2Zv1poDKrDbtAZt_nuZrA&expires=1660666404&ip=190.183.30.82
+
+#EXTINF:-1 ,NATIONAL GEOGRAPHI
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=ZwaChBP4X7tNPEPIiCeo1A&expires=1660666800&ip=190.183.30.82
+
+#EXTINF:-1 ,MTV
+https://usher.ttvnw.net/api/channel/hls/mbt144x.m3u8?allow_source=true&fast_bread=true&p=74252&play_session_id=a868f99545c57327c743ad6d53fe1f63&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=3d1d1e8191dd3bd12aadacf0ac1838e2c957d0f1&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22mbt144x%22%2C%22channel_id%22%3A810325247%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2282f24f681d2a5fb0%22%2C%22expires%22%3A1660649829%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.183.30.82%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
+
+#EXTINF:-1 ,MOVISTAR DEPORTES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=VRwmsVceyqSOEHeWQAJ8Ow&expires=1660665972&ip=190.183.30.82
+
+#EXTINF:-1 ,LATINA EN VIVO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=TovbJMluQcy8tvHNjMvAAA&expires=1660661760&ip=190.183.30.82
+
+#EXTINF:-1 ,HTV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/89_.m3u8?token=nnttIay__iVZmKad4rAoGg&expires=1660667038&ip=190.183.30.82
+
+#EXTINF:-1 ,HISTORY HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=EbQAEM4S6ElmZIp0kvp_ug&expires=1660667859&ip=190.183.30.82
+
+#EXTINF:-1 ,HBO2
+https://usher.ttvnw.net/api/channel/hls/dox171xc.m3u8?allow_source=true&fast_bread=true&p=5577408&play_session_id=2f6dc0f3501ac6b283ef4258a6a38aab&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=abdad043a71da03f3d4704ff0780167390c27bbb&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22dox171xc%22%2C%22channel_id%22%3A808953798%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2282f24f681d2a5fb0%22%2C%22expires%22%3A1660649614%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.183.30.82%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
+
+#EXTINF:-1 ,GOLDEN
+https://vsd94.mycdn.me/hls/2632082065991.m3u8/sig/mLj-Fv9p4fY/expires/1660734656718/srcIp/190.183.30.82/clientType/0/srcAg/CHROME_ANDROID/mid/5666251087431/video.m3u8?p
+
+#EXTINF:-1 ,GOLDEN EDGE
+https://vsd102.mycdn.me/hls/2771045386836.m3u8/sig/MQTAHj0fDXE/expires/1660736622217/srcIp/190.183.30.82/clientType/0/srcAg/CHROME_ANDROID/mid/3922556558932/video.m3u8?p
